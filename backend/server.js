@@ -15,7 +15,7 @@ app.get('/api/jokes', (req, res) => {
         },
         {
             id: 2,
-            title: 'Another Joke',
+            title: 'Second Joke',
             content: 'This is another joke'
         },
         {
